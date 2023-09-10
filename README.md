@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+/*vue-cli-service hatası vermemesi için projelerde  npm install komutu çalıştırılmalı*/
 npm install
 ```
 
