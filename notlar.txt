@@ -1,0 +1,1 @@
+gitignore dosyası oluşturmak için  $ touch .gitignore
